@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/genexyz/genexyz/main/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/genexyz/genexyz/main/greetings.gif" align="center" style="width: 60%" />
 </div>  
 
-### <div align="center">I'm Gianluca, a passionate Software Engineer 👨‍💻
-🔭 I’m currently working as a Software Engineer doing Full-Stack Development. 
-<br>🌱 I’m permanently learning and improving my web developer skills in general.
+### <div align="center">I'm Gianluca, a results-oriented and innovative Software Engineer with 3+ years of experience 👨‍💻
+🖥️ I’m currently working as a Full Stack Engineer. 
+<br>📈 My journey has been about more than just coding; it's about owning the products I develop, critically analyzing their impact on the business, and pushing for results that matter. I've consistently prioritized optimizing performance, accessibility, and key metrics to ensure products excel beyond just basic functionality.
 <br>🎓I graduated with a bachelor's degree in computer science in 2022.
 
 ## 💻 Tech Stack:
@@ -26,6 +26,8 @@
 ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianlucapagano) 
